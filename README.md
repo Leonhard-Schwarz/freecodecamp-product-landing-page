@@ -1,5 +1,7 @@
 # freecodecamp-product-landing-page
 
+![3D printing service product page](https://github.com/Leonhard-Schwarz/freecodecamp-personal-portfolio-webpage/blob/c91033e13303620ae681b90241c5cbdacf92005b/images/custom-3d-printing-product-landing-page-1-1.png)
+
 This repository contains the code for a product landing page, which is part of the certification projects for the FreeCodeCamp Responsive Web Design course. The objective of this project is to build a functional product landing page similar to [https://product-landing-page.freecodecamp.rocks](https://product-landing-page.freecodecamp.rocks).
 
 ## Project Overview
